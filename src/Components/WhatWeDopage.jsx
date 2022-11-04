@@ -70,7 +70,7 @@ const WhatWeDopage = () => {
           generation <br /> businesses around the world. Plans that can suit business
           type <br /> robust set of latest technologies and tools
         </p>
-        <button className="w-[188px] h-[54px] bg-[#D4E09B] rounded-[10px] font-rubik not-italic font-[400px] text-[20px] leading-[24px] text-white">See priceing</button>
+        <button className="w-[188px] h-[54px] bg-[#D4E09B] rounded-[10px] font-rubik not-italic font-[400px] text-[20px] leading-[24px] text-white mb-[103px]">See pricing</button>
       </div>
     </div>
   );

@@ -3,6 +3,7 @@ import "./Home.css";
 import HomeNav from "../NavBar/HomeNav";
 import WhatWeDopage from "../Components/WhatWeDopage";
 import Clients from "../Components/Clients";
+import Info from "../Components/Info";
 
 const Home = () => {
   return (
@@ -23,6 +24,7 @@ const Home = () => {
       </div>
       <WhatWeDopage />
       <Clients />
+      <Info/>
     </div>
   );
 };
