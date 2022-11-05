@@ -55,22 +55,36 @@ const WhatWeDopage = () => {
         </div>
       </div>
 
-      <center>
-        <div>
-          <img className="mt-[74px] w-[1600px]" src="/Group 57.png" alt="" />
+        <div className="grid grid-cols-6 gap-[60px] mt-[74px] ml-[98px]">
+          <img src="/Famous-Black-And-White-Logos-13 1.png" alt="" />
+          <img src="/Famous-Black-And-White-Logos-5 1.png" alt="" />
+          <img src="/Famous-Black-And-White-Logos-12 1.png" alt="" />
+          <img src="/Famous-Black-And-White-Logos-11 1.png" alt="" />
+          <img src="/Famous-Black-And-White-Logos-15 1.png" alt="" />
+          <img src="/Famous-Black-And-White-Logos-10 1.png" alt="" />
+          <img src="/Famous-Black-And-White-Logos-14 1.png" alt="" />
+          <img src="/Famous-Black-And-White-Logos-4 1.png" alt="" />
+          <img src="/Famous-Black-And-White-Logos-8 1.png" alt="" />
+          <img src="/Famous-Black-And-White-Logos-9 1.png" alt="" />
+          <img src="/Famous-Black-And-White-Logos-3 1.png" alt="" />
+          <img src="/Famous-Black-And-White-Logos-7 1.png" alt="" />
         </div>
-      </center>
 
       <div className="items-center justify-center text-center mt-[103px]">
-        <h1 className="not-italics font-bold text-[60px] leading-[60px] text-[#A44A3F] mb-[24px]">What Make Us the Best</h1>
+        <h1 className="not-italics font-bold text-[60px] leading-[60px] text-[#A44A3F] mb-[24px]">
+          What Make Us the Best
+        </h1>
         <p className="font-rubik not-italic font-[400px] text-[20px] leading-[24px] text-[#F19C79] mb-[41px]">
           We are a digital marketing agency providing results focused
-          advertising, <br /> creative and development services, using our unique
-          process marketing <br /> approach to generate results for e-commerce and lead
-          generation <br /> businesses around the world. Plans that can suit business
-          type <br /> robust set of latest technologies and tools
+          advertising, <br /> creative and development services, using our
+          unique process marketing <br /> approach to generate results for
+          e-commerce and lead generation <br /> businesses around the world.
+          Plans that can suit business type <br /> robust set of latest
+          technologies and tools
         </p>
-        <button className="w-[188px] h-[54px] bg-[#D4E09B] rounded-[10px] font-rubik not-italic font-[400px] text-[20px] leading-[24px] text-white mb-[103px]">See pricing</button>
+        <button className="w-[188px] h-[54px] bg-[#D4E09B] rounded-[10px] font-rubik not-italic font-[400px] text-[20px] leading-[24px] text-white mb-[103px]">
+          See pricing
+        </button>
       </div>
     </div>
   );
