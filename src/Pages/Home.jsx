@@ -4,6 +4,7 @@ import HomeNav from "../NavBar/HomeNav";
 import WhatWeDopage from "../Components/WhatWeDopage";
 import Clients from "../Components/Clients";
 import Info from "../Components/Info";
+import Footer from "../Components/Footer";
 
 const Home = () => {
   return (
@@ -25,6 +26,7 @@ const Home = () => {
       <WhatWeDopage />
       <Clients />
       <Info/>
+      <Footer/>
     </div>
   );
 };
