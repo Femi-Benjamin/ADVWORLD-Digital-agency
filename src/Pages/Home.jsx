@@ -25,8 +25,8 @@ const Home = () => {
       </div>
       <WhatWeDopage />
       <Clients />
-      <Info/>
-      <Footer/>
+      <Info />
+      <Footer />
     </div>
   );
 };

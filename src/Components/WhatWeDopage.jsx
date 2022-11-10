@@ -55,7 +55,7 @@ const WhatWeDopage = () => {
         </div>
       </div>
 
-        <div className="grid grid-cols-6 gap-[60px] mt-[74px] ml-[98px]">
+        <div className="grid grid-cols-6 gap-[60px] mt-[74px] ml-[97px] mr-[80px]">
           <img src="/Famous-Black-And-White-Logos-13 1.png" alt="" />
           <img src="/Famous-Black-And-White-Logos-5 1.png" alt="" />
           <img src="/Famous-Black-And-White-Logos-12 1.png" alt="" />

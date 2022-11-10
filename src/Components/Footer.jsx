@@ -3,7 +3,7 @@ import React from "react";
 const Footer = () => {
   return (
     <div className="h-[407px] bg-[#A44A3F] mt-[35px]">
-      <div className="md:px-[170px]">
+      <div className="md:px-[170px] sm:px-[100px]">
         <div className="grid grid-cols-4">
           <div className="mt-[57px] text-[#F6F4D2]">
             <h1 className="not-italics font-bold text-[25px] leading-[30px] pb-2">
@@ -66,7 +66,7 @@ const Footer = () => {
         </div>
 
         <center>
-          <div className="flex gap-[15px] mt-[77px]">
+          <div className="flex gap-[15px] mt-[77px] justify-center mb-2">
             <img src="/Vector.png" alt="" />
             <img src="/Vector (1).png" alt="" />
             <img src="/Vector (2).png" alt="" />
